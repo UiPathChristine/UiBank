@@ -16,7 +16,7 @@ import { HomeComponent } from './home/home.component';
     DashboardModule,
     ECommerceModule,
     MiscellaneousModule,
-    NbCardModule
+    NbCardModule,
   ],
   declarations: [
     PagesComponent,
